@@ -1,5 +1,8 @@
 # Bclose
 
+## Disclaimer
+This is not an original work by yours truly, please see references below.
+
 ## Deleting a buffer without closing the window
 
 - Grab the script below
